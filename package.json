@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/mariebtreschow/nycda-people-app/issues"
   },
-  "homepage": "https://github.com/mariebtreschow/nycda-people-app#readme"
+  "homepage": "https://github.com/mariebtreschow/nycda-people-app#readme",
+  "dependencies": {
+    "fs": "0.0.1-security"
+  }
 }
